@@ -1,4 +1,4 @@
-# ClickerJs
+# ClickerJs 2
 Simple clicking game to learn [React](https://facebook.github.io/react/)
 
 [Post discussing creation process](http://www.samansari.info/2015/12/relearning-web-development-by-writing.html)
